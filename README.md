@@ -2,4 +2,6 @@
 
 For this PowerBI project I used Data Professionals Survey Dataset by AlexTheAnalyst. it contains responses from data professionals across various industries.
 
-![image](https://github.com/user-attachments/assets/dfc10cd1-3f96-4b8e-adbc-56faab1cafaa)
+
+![image](https://github.com/user-attachments/assets/5ecf8fb4-3c6f-4629-80cf-22ebd77db9e7)
+<img src="./path-to-image.png" alt="Description" width="500"/>
